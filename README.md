@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Logo DEVJL](https://github.com/kakashijihen/kakashijihen/assets/106981529/59c4d16a-6e61-4fd8-bd78-b77667107010)
 
 <!--
 **kakashijihen/kakashijihen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
